@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">I work in</h2>
+<h2 align="left">Working Platforms</h2>
 
 
 <div align="left">
@@ -43,7 +43,7 @@
 
 ###
 
-<h2 align="left">Certs</h2>
+<h2 align="left">Certifications</h2>
 
 <div align="left">
   <a href="https://certs.ine.com/b8c2e097-6bec-48b1-ad18-90f1f539c1be#gs.gktzxl" target="_blank">
