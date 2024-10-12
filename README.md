@@ -47,11 +47,11 @@
 
 <div align="left">
   <a href="https://certs.ine.com/b8c2e097-6bec-48b1-ad18-90f1f539c1be#gs.gktzxl" target="_blank">
-    <img src="https://images.credential.net/badge/tiny/yhc3olbl_1728744335159_badge.png" height="100" alt="Ejptv2"  />
+    <img src="https://images.credential.net/badge/tiny/yhc3olbl_1728744335159_badge.png" height="200" alt="Ejptv2"  />
   </a>
   <br>
   <a href="https://credentials.britishcouncil.org/1e0f18e1-eba6-4a96-922a-eceebe9f4ba8?key=4ca914a74001494908818274824bd6fa61895b3da50c1d034ed5f8592ee9583c" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ffffe014-27bd-410d-a94c-b8ab60d40c88" height="100" alt="English Cert"  />
+    <img src="https://github.com/user-attachments/assets/ffffe014-27bd-410d-a94c-b8ab60d40c88" height="200" alt="English Cert"  />
   </a>
 </div>
 
