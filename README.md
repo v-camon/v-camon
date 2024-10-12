@@ -47,11 +47,11 @@
 
 <div align="left">
   <a href="https://certs.ine.com/b8c2e097-6bec-48b1-ad18-90f1f539c1be#gs.gktzxl" target="_blank">
-    <img src="https://github.com/user-attachments/assets/7748ae69-56c9-44d4-9b49-e7a127c6782b" alt="Ejptv2"  />
+    <img src="https://images.credential.net/badge/tiny/yhc3olbl_1728744335159_badge.png" height="100" alt="Ejptv2"  />
   </a>
   <br>
-  <a href="https://app.hackthebox.com/profile/136177" target="_blank">
-    <img src="https://www.hackthebox.com/badge/image/136177" alt="Htb Badge"  />
+  <a href="https://credentials.britishcouncil.org/1e0f18e1-eba6-4a96-922a-eceebe9f4ba8?key=4ca914a74001494908818274824bd6fa61895b3da50c1d034ed5f8592ee9583c" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ffffe014-27bd-410d-a94c-b8ab60d40c88" height="100" alt="English Cert"  />
   </a>
 </div>
 
