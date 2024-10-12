@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Studying pentesting since 2019<br>📚 I'm currently preparing for OSCP<br>🎯 Certified on EJPTv2</p>
+<p align="left">✨ Studying pentesting since 2019<br>📚 Currently preparing for OSCP<br>🎯 Certified on EJPTv2</p>
 
 ###
 
