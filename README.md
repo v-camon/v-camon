@@ -47,8 +47,7 @@
 
 <div align="left">
   <a href="https://certs.ine.com/b8c2e097-6bec-48b1-ad18-90f1f539c1be#gs.gktzxl" target="_blank">
-    <img src="![352e0ff0-cc1e-44bd-899f-860ddb796cff](https://github.com/user-attachments/assets/419de798-63f6-4e0e-aab3-c1f47c7b584e)
-" alt="Ejptv2"  />
+    <img src="https://github.com/user-attachments/assets/7748ae69-56c9-44d4-9b49-e7a127c6782b" alt="Ejptv2"  />
   </a>
   <br>
   <a href="https://app.hackthebox.com/profile/136177" target="_blank">
