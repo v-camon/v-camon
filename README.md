@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Studying pentesting since 2019<br>🎯 Certifications:<a href="https://certs.ine.com/b8c2e097-6bec-48b1-ad18-90f1f539c1be#gs.gktzxl"> eJPTv2 </a> | <a href="https://credentials.britishcouncil.org/1e0f18e1-eba6-4a96-922a-eceebe9f4ba8?key=4ca914a74001494908818274824bd6fa61895b3da50c1d034ed5f8592ee9583c"> English C Level </a> <br>📚 Currently preparing for OSCP<br></p>
+<p align="left">✨ Studying pentesting since 2019<br>
+🎯 Certifications:<a href="https://certs.ine.com/b8c2e097-6bec-48b1-ad18-90f1f539c1be#gs.gktzxl"> eJPTv2 </a> | 
+<a href="https://credentials.britishcouncil.org/1e0f18e1-eba6-4a96-922a-eceebe9f4ba8?key=4ca914a74001494908818274824bd6fa61895b3da50c1d034ed5f8592ee9583c"> English C Level </a> <br>
+📚 Currently studing for OSCP and Network Administration<br></p>
 
 ###
 
