@@ -56,6 +56,10 @@
   <a href="https://credentials.britishcouncil.org/1e0f18e1-eba6-4a96-922a-eceebe9f4ba8?key=4ca914a74001494908818274824bd6fa61895b3da50c1d034ed5f8592ee9583c" target="_blank">
     <img src="https://github.com/user-attachments/assets/ffffe014-27bd-410d-a94c-b8ab60d40c88" height="200" alt="English Cert"  />
   </a>
+    <br>
+  <a href="https://www.credly.com/badges/d805765e-e2a9-4510-b080-315ab4a9a209/linked_in_profile?trk=public_profile_see-credential" target="_blank">
+    <img src=https://github.com/user-attachments/assets/bce67122-e420-42b0-9c8b-728af5d188ce" height="200" alt="Int_2_Cyber_Cisco"  />
+  </a>
 </div>
 
 
