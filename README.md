@@ -58,7 +58,7 @@
   </a>
     <br>
   <a href="https://www.credly.com/badges/d805765e-e2a9-4510-b080-315ab4a9a209/linked_in_profile?trk=public_profile_see-credential" target="_blank">
-    <img src=https://github.com/user-attachments/assets/bce67122-e420-42b0-9c8b-728af5d188ce" height="200" alt="Int_2_Cyber_Cisco"  />
+    <img src="https://github.com/user-attachments/assets/bce67122-e420-42b0-9c8b-728af5d188ce" height="200" alt="Int_2_Cyber_Cisco"  />
   </a>
 </div>
 
