@@ -36,7 +36,7 @@
 
 <div align="left">
   <a href="https://tryhackme.com/r/p/Patche" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/worng.png" alt="Thm Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Patche.png" alt="Thm Badge" />
   </a>
   <br>
   <a href="https://app.hackthebox.com/profile/136177" target="_blank">
